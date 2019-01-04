@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  WeChatActionSheet
-//
-//  Created by soliloquy on 2017/10/12.
-//  Copyright © 2017年 soliloquy. All rights reserved.
-//
+
 
 import UIKit
 
